@@ -28,9 +28,9 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/mizuday?tab=repositories)
 
-- 💬 Ask me about anything <a href="mailto:louis.juan@protonmail.com"><b>here</b></a>
+- 💬 Ask me about anything <a href="mailto:louis.juan@proton.me"><b>here</b></a>
 
-- 📫 Also, you may send a nice letter to **louis.juan@protonmail.com**
+- 📫 Also, you may send a nice letter to **louis.juan@proton.me**
 
 </div>
 <br>
