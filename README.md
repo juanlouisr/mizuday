@@ -2,7 +2,7 @@
 **mizuday/mizuday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Juan Louis </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45" height="45" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Juan Louis </h1>
 <h3 align="center">A passionate Software Developer  from Bandung Institute of Technology <img src="https://upload.wikimedia.org/wikipedia/id/9/95/Logo_Institut_Teknologi_Bandung.png" width="40 style="vertical-align: bottom"/>   </h3>
 
 <div align="center">
